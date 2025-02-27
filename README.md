@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- I'm an EPFL life science student :)
+- I really enjoy biology 🌱
+- Outside from uni I also like hiking and football
+
 <!--
 **annaaassss/annaaassss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
